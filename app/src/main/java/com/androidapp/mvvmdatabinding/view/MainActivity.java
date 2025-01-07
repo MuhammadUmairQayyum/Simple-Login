@@ -9,12 +9,17 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
-
+// cccd
 import com.androidapp.mvvmdatabinding.R;
+
+
 import com.androidapp.mvvmdatabinding.databinding.ActivityMainBinding;
 import com.androidapp.mvvmdatabinding.viewModel.LoginViewModel;
 
 public class MainActivity extends AppCompatActivity {
+
+
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
